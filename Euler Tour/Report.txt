@@ -1,0 +1,13 @@
+
+/*@authors Keerthi Manu,Nithin,Pranathi,Namratha*/
+
+Running Times observed for different  graphs:
+
+Time for a graph with 9 vertices and 13 edges: 4msec 
+
+Time for a graph with 100 vertices and 1050 edges: 5msec 
+
+Time for a graph with 1000 vertices and 5506 edges: 24msec 
+
+Time for a graph with 500k vertices and 5.2M edges: 5009 msec 
+
