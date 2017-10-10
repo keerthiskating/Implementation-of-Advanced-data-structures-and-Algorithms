@@ -22,5 +22,5 @@ Execution :
 	1) Compile all the .java files
 	2) Run the LP2.java and it gives the output .
 
-  
+*This is not an individual project and has its contributions from Professor and my team mates*
 
